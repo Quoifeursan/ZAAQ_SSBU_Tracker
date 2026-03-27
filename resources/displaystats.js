@@ -64,7 +64,7 @@ return str.charAt(0).toUpperCase() + str.slice(1);
 // HEADER
 document.title = `ZAAQ: ${profile.name}'s Profile`;
 document.getElementById("main-img").src =
-`../images/smash_characters/${capitalize(profile.main)}.png`;
+`../images/smash_characters/${(profile.main)}.png`;
 
 document.getElementById("country-img").src =
 `../images/assets_HUD/${profile.country}.png`;
