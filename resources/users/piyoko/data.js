@@ -4,7 +4,7 @@
 const profile = {
 name:"Piyoko",
 swcode:"SW-1249-5813-8697",
-main:"Pyra",
+main:"pyra",
 gspacc:"11M",
 top:"30%",
 country:"france"
